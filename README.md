@@ -1,5 +1,8 @@
 # Covid-19 Dataset Analysis
 
+![Covid-19 Dataset Analysis](https://github.com/chhavijaiswal/Covid-19-Dataset-Analysis/assets/169688057/2cb2a64c-c93d-4e60-8793-678d4f07adc1)
+
+
 ## Table of contents
 
 - [Project Overview](#project-overview)
