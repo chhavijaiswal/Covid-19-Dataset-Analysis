@@ -11,6 +11,8 @@
 - [KPIs](#kpis)
 - [Insights](#insights)
 
+---
+
 ### Project Overview
 I have created a COVID-19 Dataset Analysis Dashboard on Power BI that shows the detailed attrition analysis of COVID-19 situations. A short insight into a COVID-19 dataset analysis Power BI visualization report (KPI) centered around Cards visualizing Total Deaths, New Cases, and Total Cases.
 
